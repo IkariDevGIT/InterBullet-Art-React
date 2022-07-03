@@ -44,8 +44,6 @@
   width: 100%;
   display: flex;
   align-items: stretch;
-  border-color: rgba(78, 33, 100, 0.63);
-  border-width: 1px;
   border-radius: var(--dl-radius-radius-radius8);
   margin-bottom: 50px;
   justify-content: flex-start;
@@ -63,10 +61,88 @@
 .home1-container4 {
   flex: 0 0 auto;
   width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
   height: 70px;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
+  justify-content: center;
+}
+.home1-text {
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
+}
+.home1-text03 {
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
+}
+.home1-text05 {
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
+}
+.home1-text08 {
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
+}
+.home1-text09 {
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
+}
+.home1-text11 {
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
 }
 .home1-container5 {
   flex: 0 0 auto;

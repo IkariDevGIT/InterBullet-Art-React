@@ -83,6 +83,16 @@
   background-image: url('https://lh3.googleusercontent.com/t8jzr310rC5obgwRHRljXVYqpVt_LwPzoBoBknYxU9QH4sDPlItjYN_IGNbDIaK6d89pVC7XxGM87-QypJ9CmgHXSA=w640-h400-e365-rj-sc0x00ffffff');
   -webkit-background-clip: text;
 }
+.article {
+  margin: 5px;
+  padding: 5px 0;
+  overflow: hidden;
+  background: #000;
+  padding-top: 0px;
+  border-color: #778299 #9caebb #9caebb #778299;
+  border-style: solid;
+  border-width: 6px;
+}
 .heading {
   font-size: 32px;
   font-family: Inter;

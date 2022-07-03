@@ -25,7 +25,15 @@ const Home = (props) => {
               className="home-image1"
             />
           </div>
-          <h1 className="home-text PicText">Heading</h1>
+          <div className="home-container4">
+            <h1 className="home-text PicText">
+              <span>Games</span>
+            </h1>
+          </div>
+          <div className="home-container5">
+            <div className="home-container6"></div>
+            <div className="home-container7"></div>
+          </div>
         </div>
       </div>
     </div>

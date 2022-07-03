@@ -53,7 +53,7 @@ const Warning = (props) => {
           <br></br>
           <span>This old bad style is intentional</span>
         </span>
-        <Link to="/home" className="warning-navlink">
+        <Link to="/home1" className="warning-navlink">
           <span>Continue</span>
         </Link>
       </div>

@@ -12,7 +12,7 @@ const Home = (props) => {
         <meta property="og:title" content="Home - InterBullet Art" />
       </Helmet>
       <div className="home-container1">
-        <div className="home-container2">
+        <div className="home-container2 article">
           <div className="home-container3">
             <img
               alt="image"
@@ -25,14 +25,29 @@ const Home = (props) => {
               className="home-image1"
             />
           </div>
-          <div className="home-container4">
+          <div className="home-container4 article">
             <h1 className="home-text PicText">
               <span>Games</span>
+              <span></span>
+            </h1>
+            <h1 className="home-text03 PicText">
+              <span>Discord</span>
+            </h1>
+            <h1 className="home-text05 PicText">
+              <span>News</span>
+              <span></span>
+            </h1>
+            <h1 className="home-text08 PicText">Team Members</h1>
+            <h1 className="home-text09 PicText">
+              <span>WTF?</span>
+            </h1>
+            <h1 className="home-text11 PicText">
+              <span>Info</span>
             </h1>
           </div>
           <div className="home-container5">
-            <div className="home-container6"></div>
-            <div className="home-container7"></div>
+            <div className="home-container6 article"></div>
+            <div className="home-container7 article"></div>
           </div>
         </div>
       </div>

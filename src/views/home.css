@@ -35,28 +35,24 @@
   align-items: center;
   border-radius: 30px;
   flex-direction: column;
-  background-size: cover;
   justify-content: flex-start;
-  background-image: linear-gradient(90deg, rgba(30, 0, 53, 0.75) 1.00%,rgba(30, 0, 53, 0.75) 100.00%),url('https://media1.giphy.com/media/xTiQyohZdXceENvkcM/giphy.gif');
 }
 .home-container3 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
   align-items: stretch;
-  border-color: rgba(78, 33, 100, 0.63);
-  border-width: 1px;
   border-radius: var(--dl-radius-radius-radius8);
   margin-bottom: 50px;
-  justify-content: flex-start;
-  background-color: rgba(54, 18, 100, 0.25);
+  justify-content: space-between;
+  background-color: rgba(22, 0, 43, 0.25);
 }
 .home-image {
   width: 100px;
   object-fit: cover;
 }
 .home-image1 {
-  width: 700px;
+  width: 650px;
   object-fit: cover;
   margin-left: 10px;
 }
@@ -65,15 +61,87 @@
   width: 100%;
   height: 70px;
   display: flex;
-  box-shadow: 3px 3px 0px 0px #000000;
   align-items: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  justify-content: space-between;
-  background-color: rgba(30, 0, 43, 0.9);
+  margin-bottom: 10px;
+  justify-content: center;
 }
 .home-text {
-  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/17168002(1)(1).gif');
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
+}
+.home-text03 {
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
+}
+.home-text05 {
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
+}
+.home-text08 {
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
+}
+.home-text09 {
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
+}
+.home-text11 {
+  color: rgba(253, 253, 253, 0);
+  width: auto;
+  font-size: 35px;
+  font-style: normal;
+  font-family: Nunito;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  letter-spacing: -3px;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/Untitled.gif');
+  -webkit-text-stroke: 1px black;
 }
 .home-container5 {
   flex: 0 0 auto;
@@ -85,19 +153,23 @@
 }
 .home-container6 {
   flex: 0 0 auto;
-  width: 550px;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
+  width: 520px;
   height: 100%;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
   flex-direction: column;
+  padding-bottom: 30px;
+  justify-content: flex-start;
 }
 .home-container7 {
   flex: 0 0 auto;
-  width: 230px;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
+  width: 220px;
   height: 100%;
   display: flex;
+  padding: 20px;
   align-items: flex-start;
   flex-direction: column;
 }

@@ -1,0 +1,62 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: linear-gradient(90deg, rgba(42, 42, 42, 0.97) 3.00%,rgba(42, 42, 42, 0.97) 97.00%),url('https://i.ibb.co/tpS049c/Color-Matte121.gif');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+.home-container1 {
+  flex: 0 0 auto;
+  width: 1200px;
+  height: var(--dl-size-size-maxwidth);
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  padding-top: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-bottom: 100px;
+  justify-content: flex-start;
+}
+.home-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: 10px;
+  align-self: flex-start;
+  align-items: center;
+  border-radius: 30px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: linear-gradient(90deg, rgba(30, 0, 53, 0.75) 1.00%,rgba(30, 0, 53, 0.75) 100.00%),url('https://media1.giphy.com/media/xTiQyohZdXceENvkcM/giphy.gif');
+}
+.home-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: stretch;
+  margin-bottom: 50px;
+  justify-content: flex-start;
+}
+.home-image {
+  width: 100px;
+  object-fit: cover;
+}
+.home-image1 {
+  width: 700px;
+  object-fit: cover;
+  margin-left: 10px;
+}
+.home-text {
+  font-size: 5em;
+  background-image: url('https://github.com/IkariDevGIT/WebsiteHostPAF/raw/main/17168002(1)(1).gif');
+}
